@@ -1,1 +1,2 @@
-# Pot_iOS
+# Pot_iOS 입니다.
+
