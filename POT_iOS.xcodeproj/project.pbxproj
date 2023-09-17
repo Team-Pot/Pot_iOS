@@ -31,7 +31,6 @@
 		D19890432AA746F6001E5F11 /* AppleSDGothicNeoR.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D198903A2AA746F6001E5F11 /* AppleSDGothicNeoR.ttf */; };
 		D1F579A82AB42A9F00F09D37 /* Gradation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F579A72AB42A9F00F09D37 /* Gradation.swift */; };
 		D1F579AA2AB4333E00F09D37 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F579A92AB4333E00F09D37 /* ViewModel.swift */; };
-		D1F579AC2AB4351B00F09D37 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F579AB2AB4351B00F09D37 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,7 +55,6 @@
 		D198903A2AA746F6001E5F11 /* AppleSDGothicNeoR.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AppleSDGothicNeoR.ttf; sourceTree = "<group>"; };
 		D1F579A72AB42A9F00F09D37 /* Gradation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradation.swift; sourceTree = "<group>"; };
 		D1F579A92AB4333E00F09D37 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
-		D1F579AB2AB4351B00F09D37 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,7 +143,6 @@
 			children = (
 				D165CC292A9EA7C9009108AD /* LoginVC.swift */,
 				D1F579A72AB42A9F00F09D37 /* Gradation.swift */,
-				D1F579AB2AB4351B00F09D37 /* CollectionViewCell.swift */,
 				D1F579A92AB4333E00F09D37 /* ViewModel.swift */,
 			);
 			path = Login;
@@ -278,7 +275,6 @@
 			files = (
 				D165CC2A2A9EA7C9009108AD /* LoginVC.swift in Sources */,
 				D165CC262A9EA7C9009108AD /* AppDelegate.swift in Sources */,
-				D1F579AC2AB4351B00F09D37 /* CollectionViewCell.swift in Sources */,
 				D154B8542AA9C19B00059551 /* CustomButton.swift in Sources */,
 				D1F579A82AB42A9F00F09D37 /* Gradation.swift in Sources */,
 				D165CC282A9EA7C9009108AD /* SceneDelegate.swift in Sources */,
